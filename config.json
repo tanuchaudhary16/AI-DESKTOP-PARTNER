@@ -1,0 +1,11 @@
+{
+    "gemini_api_key": "AIzaSyCAqwh5JN-MlRp1d7r-mFzEQYBVpXLECLA",
+    "authorized_faces": [
+        "face.jpg"
+    ],
+    "voice_settings": {
+        "voice": "Microsoft Zira"
+    },
+    "fallback_password": "google-eyes",
+    "youtube_playlist": "https://www.youtube.com/playlist?list=PLsEYFn5llq1MCneLjMwfWJM_aVsrKV3aQ"
+}
